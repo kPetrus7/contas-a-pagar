@@ -1,0 +1,33 @@
+==============================================================================================================================
+
+Prioridade_Alta:
+
+	*Documentação completa do projeto e READ.me; //APENAS quando a versão 1.0 OFICIAL estiver completa
+
+==============================================================================================================================
+
+Prioridade_Média:
+	
+	*Inserir botão "Cancelar" e sua função (ContasViewer/Controller) //melhora da qualidade de interação com usuário
+	*Tratamentos de erros específicos para cada exeption (Todo Projeto); //melhora da qualidade de interação com usuário
+
+==============================================================================================================================
+
+Prioridade_Baixa:
+
+	*Inserir icones de ação nas telas (Viewers); //melhora da qualidade de interação com usuário
+
+
+==============================================================================================================================
+
+Para versões futuras:
+	
+	*Implementação de DashBoards;
+	*Implementação API para download e importação de NF-E;
+	*Implementação API de integração bancária para baixa automática de pagamentos;
+	*Implementação de sistemas de armanezamento e acesso de boleto, recibo e NF-E (.pdf);
+	
+	*Migração para arquitetura Servidor-Cliente;	
+
+	*Portabilidade do código completo para Kotlin;
+	*Portabilidade do Banco para PostgreSQL;
